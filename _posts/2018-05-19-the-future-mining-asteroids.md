@@ -1,5 +1,5 @@
 ---
-title: The Future: Mining Asteroids?
+title: "The Future: Mining Asteroids?"
 date: 2018-05-19 21:39:00 -0500
 categories: [Musings]
 tags: [random, science]
