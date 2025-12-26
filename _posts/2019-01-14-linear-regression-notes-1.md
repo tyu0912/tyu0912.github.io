@@ -1,6 +1,6 @@
 ---
 title: "Linear Regression Notes 1"
-date: 2019-01-14 06:58:00 -0500
+date: 2019-01-14 07:58:00 -0500
 categories: [AI]
 tags: [learnings]
 ---
@@ -18,7 +18,7 @@ MLS Assumptions:
 - Homoskedasticity - variance of error must be constant
 - The population error is independent of the variables and is normally distributed
 
-Although this is written from a biological perspective, this is a great [resource](http://www.biostathandbook.com):
+Although this is written from a biological perspective, this is a great [resource](https://www.biostathandbook.com):
 
 This is also a good [link](https://www.statisticssolutions.com/assumptions-of-logistic-regression/) that contrasts linear and logistic regression.
 
